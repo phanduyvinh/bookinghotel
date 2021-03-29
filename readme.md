@@ -8,7 +8,7 @@
 </p>
 <h2>About Project</h2><br>
 <img height="60" src="https://i.ibb.co/PFLFx3W/ela.png" alt="ela" border="0">
-<center><b>ElaHotel hotel reservation system - Integrated Qrcode and payment gateway VNPAY - 2020</b></center><br>
+<center><b>ElaHotel hotel reservation system - Integrated Qrcode and payment gateway VNPAY - 2020</b></center><br><br>
 * Video demo : https://drive.google.com/file/d/1JaZIx00cxKSxsGaYNLnL96w8HjLkTlT7 <br>
 * Report : https://drive.google.com/file/d/1NSfYCq_pI7ZlWLKFbKwhIAyln6VELRgW
 
