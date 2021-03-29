@@ -6,9 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-<h1>About Project</h1><br>
+<h2>About Project</h2><br>
+<center><b>ElaHotel hotel reservation system - Integrated Qrcode and payment gateway VNPAY - 2020</b></center>
 * Video demo : https://drive.google.com/file/d/1JaZIx00cxKSxsGaYNLnL96w8HjLkTlT7 <br>
 * Report : https://drive.google.com/file/d/1NSfYCq_pI7ZlWLKFbKwhIAyln6VELRgW
+
 
 ## About Laravel
 
