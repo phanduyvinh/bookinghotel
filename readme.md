@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-<b style='color:red'>About Project</b><br>
+<h1>About Project</h1><br>
 * Video demo : https://drive.google.com/file/d/1JaZIx00cxKSxsGaYNLnL96w8HjLkTlT7 <br>
 * Report : https://drive.google.com/file/d/1NSfYCq_pI7ZlWLKFbKwhIAyln6VELRgW
 
